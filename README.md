@@ -8,3 +8,5 @@ The code was created from a particle conference room motion detector tutorial & 
 Guide buzzer example. 
 
 Flashed to the photon using the particle IDE https://www.particle.io/
+
+Watch Demo here: https://drive.google.com/open?id=0B880pd8EVMnXazV6V0Yyak1ZWkE
