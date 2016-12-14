@@ -1,6 +1,6 @@
 # BadCat Motion Sensor 
 
-This program uses a Photon, a PIR motion sensor & peizo buzzer from SparkFun
+This Device uses a Photon, a PIR motion sensor & peizo buzzer from SparkFun
 Kit to determine whether a cat has been detected on a surface such as a table
 or counter and publishes events to IFFF to send SMS texts & notifications.
 
